@@ -3,7 +3,7 @@ Maze solving with wall follower algorithm
 
 The video pretty much explains it all:
 
-Link Youtube: https://www.youtube.com/watch?v=ztjC2I54o4M&list=PLwPBf6q2CQ-btTIgsZXhBJY6vKkSxBtxv
+[**YOUTUBE LINK: Wall following car with Arduino_Mrzaizai2k**](https://www.youtube.com/watch?v=ztjC2I54o4M&list=PLwPBf6q2CQ-btTIgsZXhBJY6vKkSxBtxv)
 
 1. Sử dụng cảm biến khoảng cách HC-SR04: http://arduino.vn/bai-viet/233-su-dun...
 
